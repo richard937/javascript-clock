@@ -38,3 +38,12 @@ body {
   transition: all 0.5s;
   transition-timing-function: ease-in-out;
 }
+
+.digital-clock {
+  background: #333;
+  display: inline-block;
+  padding: 2rem 4rem;
+  width: 35%;
+  font-size: 4rem;
+  border-radius: 5px;
+}
